@@ -30,23 +30,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <!-- CARTÃO DE ESTATÍSTICAS -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NOME_DE_USUARIO_DA_ANNA&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <!-- LINGUAGENS / FERRAMENTAS -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOME_DE_USUARIO_DA_ANNA&layout=compact&theme=rose_pine" alt="Linguagens Mais Usadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- TROFÉUS DO GITHUB -->
-  <img src="https://github-profile-trophy.vercel.app/?username=NOME_DE_USUARIO_DA_ANNA&theme=dracula&column=6" alt="Troféus do GitHub" />
-</div>
-
 ---
 
 ### 🌐 Redes Sociais e Contato
