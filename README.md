@@ -1,6 +1,6 @@
 <!-- CAPA / BANNER SUPERIOR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Olá,%20sou%20a%20Anna%20Alice!%20🌸&fontSize=38&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=250&section=header&text=Olá,%20sou%20a%20Anna%20Alice!%20🌸&fontSize=38&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
   
   <!-- TEXTO ANIMADO / DIGITAÇÃO -->
   <a href="https://git.io/typing-svg">
@@ -26,6 +26,25 @@
 <div align="center">
   <!-- BADGES DE HABILIDADES DE DESIGN -->
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,github,git,html,css" alt="Habilidades de Design" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <!-- CARTÃO DE ESTATÍSTICAS -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NOME_DE_USUARIO_DA_ANNA&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <!-- LINGUAGENS / FERRAMENTAS -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOME_DE_USUARIO_DA_ANNA&layout=compact&theme=rose_pine" alt="Linguagens Mais Usadas" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- TROFÉUS DO GITHUB -->
+  <img src="https://github-profile-trophy.vercel.app/?username=NOME_DE_USUARIO_DA_ANNA&theme=dracula&column=6" alt="Troféus do GitHub" />
 </div>
 
 ---
